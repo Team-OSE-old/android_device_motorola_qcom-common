@@ -7,17 +7,12 @@ bin/qseecomd
 lib/libdrmdiag.so
 lib/libdrmfs.so
 lib/libdrmtime.so
-lib/libfrsdk.so
 lib/libQSEEComAPI.so
 lib/libWVphoneAPI.so
 vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/libwvdrm_L1.so
 vendor/lib/libwvm.so
 vendor/lib/libWVStreamControlAPI_L1.so
-
-# GPS
-lib/libgeofence.so
-lib/libloc_api_v02.so
 
 # Graphics firmware
 etc/firmware/vidc.b00
